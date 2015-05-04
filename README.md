@@ -1,7 +1,7 @@
 # lita-lookup-host
 
 [![Build Status](https://travis-ci.org/justintime/lita-lookup-host.png?branch=master)](https://travis-ci.org/justintime/lita-lookup-host)
-[![Coverage Status](https://coveralls.io/repos/justintime/lita-lookup-host/badge.png)](https://coveralls.io/r/justintime/lita-lookup-host)
+[![Coverage Status](https://coveralls.io/repos/justintime/lita-lookup-host/badge.svg?branch=master)](https://coveralls.io/r/justintime/lita-lookup-host?branch=master)
 
 A handler for lita that gives folks in chat an easy way to perform both forward and reverse lookups for hosts via DNS.
 
