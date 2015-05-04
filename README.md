@@ -16,10 +16,6 @@ Add lita-lookup-host to your Lita instance's Gemfile:
 gem "lita-lookup-host"
 ```
 
-## Configuration
-
-None.
-
 ## Usage
 
 ### Perform a forward lookup:
