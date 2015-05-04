@@ -23,12 +23,14 @@ None.
 ## Usage
 
 ### Perform a forward lookup:
-```[You] lita: lookup host www.google.com
+```
+[You] lita: lookup host www.google.com
 [Lita] 216.58.216.68
 ```
 
 ### Perform a reverse lookup:
-```[You] lita: lookup host 127.0.0.1
+```
+[You] lita: lookup host 127.0.0.1
 [Lita] localhost
 ```
 
