@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-lookup-host"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Justin Ellison"]
   spec.email         = ["justin@techadvise.com"]
   spec.description   = %q{A lita handler for performing forward and reverse DNS lookups}

@@ -2,3 +2,7 @@ en:
   lita:
     handlers:
       lookup_host:
+        help:
+          syntax: lookup host <hostname or IP address>
+          desc: Performs a DNS lookup on the hostname or IP address using the system resolver
+

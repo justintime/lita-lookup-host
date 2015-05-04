@@ -6,7 +6,7 @@ module Lita
         :resolve,
         command: true,
         help: {
-          t('help.resolve.syntax') => t('help.resolve.desc')
+          t('help.syntax') => t('help.desc')
         }
       )
 
